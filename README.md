@@ -32,7 +32,7 @@
 
 ### III. Mô tả bài tập
 
-	__Đề tài quản lý thư viện__
+	__ Đề tài quản lý thư viện __
 
 	Thư viện trường Đại học Khoa học tự nhiên TP.HCM cần viết một chương trình quản lí thư viện trên nền console và các bạn, những lập trình viên tài năng trong tương lai được chọn để thực hiện dự án này.
 
