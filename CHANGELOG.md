@@ -4,16 +4,16 @@
 
 Features:
 
-	- Quản lý tài khoản và thông tin người dùng
+- Quản lý tài khoản và thông tin người dùng
 	
-	- Phân loại tài khoản người dùng
+- Phân loại tài khoản người dùng
 	
-	- Quản lý độc giả
+- Quản lý độc giả
 	
-	- Quản lý sách
+- Quản lý sách
 	
-	- Lập phiếu mượn sách
+- Lập phiếu mượn sách
 	
-	- Lập phiếu trả sách
+- Lập phiếu trả sách
 	
-	- Các thống kê cơ bản
+- Các thống kê cơ bản
