@@ -1,0 +1,5 @@
+Trước khi build chương trình, đảm bảo bạn đã cài đặt Visual Studio cùng với các gói hỗ trợ lập trình console C/C++
+
+Mở file LibraryManagement.sln trong thư mục Program/LibraryManagement/ bằng Visual Studio và tiến hành build chương trình
+
+Chương trình chạy tốt trên màn hình console 120x30.
