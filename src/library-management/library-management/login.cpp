@@ -7,6 +7,7 @@
 #include "library-management.h"
 #include "cache.h"
 #include "input.h"
+#include "users.h"
 
 //Hàm tạo giao diện đăng nhập cho người dùng
 void LayoutLogin(char username[], char password[])
@@ -57,6 +58,26 @@ int Login(char username[], char password[])
 		if ((strcmp(username, ad.username) == 0) && (strcmp(password, ad.password) == 0))
 		{
 			WriteCacheAccount(username, password);
+			return 1;
+		}
+	}
+	else
+	{
+		if (strcmp(username, "admin") == 0 && strcmp(password, "admin") == 0)
+		{
+			WriteCacheAccount(username, password);
+			Accounts root_admin;
+			strcpy(root_admin.username, "admin");
+			strcpy(root_admin.password, "admin");
+			root_admin.active = true;
+			strcpy(root_admin.fullname, "Nguyen Tuan Dat");
+			Day dob = { 13,10,1999 };
+			root_admin.DoB = dob;
+			strcpy(root_admin.ID, "123456789");
+			strcpy(root_admin.address, "TP. Ho Chi Minh");
+			root_admin.sex = 1;
+			root_admin.classification = 1;
+			WriteAccount("user/admin/admin.bin", root_admin);
 			return 1;
 		}
 	}

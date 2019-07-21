@@ -9,6 +9,7 @@
 #include "login.h"
 #include "library-management.h"
 #include "cache.h"
+#include "function-standard.h"
 
 int main(int argc, char *argv[])
 {
@@ -44,6 +45,7 @@ int main(int argc, char *argv[])
 			if (argc == 1)
 			{
 				char username[21], password[21];	//Tài khoản và mật khẩu tối đa 20 kí tự
+				initSystemFolder();
 				if (ReadCacheAccount(username, password) == 1)	//Đọc từ cache <USERNAME> và <PASSWORD>
 				{
 					SetBG();
