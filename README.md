@@ -16,7 +16,11 @@
 
 	- Thao tác được trên tập tin văn bản và nhị phân, lựa chọn được các dạng tập tin lưu 
 trữ thích hợp.
+
 	- Xử lý được một số dạng tập tin có cấu trúc
+
 	- Áp dụng được các cấu trúc dữ liệu cơ bản (LinkedList, Stack, Queue)
+
 	- Áp dụng các kỹ thuật lập trình sắp xếp, tìm kiếm, con trỏ, đệ qui
+
 	- Sử dụng trương trình dạng Command Line
