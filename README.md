@@ -25,9 +25,9 @@
 
 - Xử lý được một số dạng tập tin có cấu trúc
 
-- Áp dụng được các cấu trúc dữ liệu cơ bản (LinkedList, Stack, Queue)
+- Áp dụng được các cấu trúc dữ liệu cơ bản ([LinkedList](https://www.stdio.vn/articles/danh-sach-lien-ket-don-106), [Stack](https://vi.wikipedia.org/wiki/Ngăn_xếp), [Queue](https://vi.wikipedia.org/wiki/Hàng_đợi))
 
-- Áp dụng các kỹ thuật lập trình sắp xếp, tìm kiếm, con trỏ, đệ qui
+- Áp dụng các kỹ thuật lập trình sắp xếp, tìm kiếm, [con trỏ](https://cpp.daynhauhoc.com/8/0-con-tr/), [đệ qui](https://vi.wikipedia.org/wiki/Đệ_quy)
 
 - Sử dụng trương trình dạng Command Line
 
@@ -43,7 +43,7 @@ Thư viện cần quản lí 4 loại thông tin gồm: người dùng, độc g
 
 - Thông tin thẻ độc giả cần quản lí bao gồm: mã độc giả, họ tên, CMND, ngày tháng năm sinh, giới tính, email, địa chỉ, ngày lập thẻ và ngày hết hạn của thẻ (48 tháng kể từ ngày lập thẻ).
 
-- Thông tin sách cần quản lí bao gồm: ISBN (mã sách), tên sách, tác giả, nhà xuất bản, năm xuất bản, thể loại, giá sách, số quyển sách.
+- Thông tin sách cần quản lí bao gồm: [ISBN](https://www.isbn-international.org/content/what-isbn) (mã sách), tên sách, tác giả, nhà xuất bản, năm xuất bản, thể loại, giá sách, số quyển sách.
 
 - Mỗi phiếu mượn/trả sách chứa thông tin về mã độc giả, ngày mượn, ngày trả dự kiến, ngày trả thực tế và danh sách ISBN của các sách được mượn. Mỗi sách được mượn tối đa trong 7 ngày, nếu quá hạn sẽ bị phạt tiền 5.000 đồng/ngày. Nếu sách bị mất thì độc giả đó sẽ bị phạt số tiền tương ứng 200% giá sách.
 	
