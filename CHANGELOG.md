@@ -17,3 +17,5 @@ Features:
 - Lập phiếu trả sách
 	
 - Các thống kê cơ bản
+
+- Sửa tên các file .cpp và thư mục cho đồng bộ
