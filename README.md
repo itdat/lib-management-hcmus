@@ -14,8 +14,7 @@
 
 ### II. Chuẩn đầu ra cần đạt
 
-	- Thao tác được trên tập tin văn bản và nhị phân, lựa chọn được các dạng tập tin lưu 
-trữ thích hợp.
+	- Thao tác được trên tập tin văn bản và nhị phân, lựa chọn được các dạng tập tin lưu trữ thích hợp.
 
 	- Xử lý được một số dạng tập tin có cấu trúc
 
