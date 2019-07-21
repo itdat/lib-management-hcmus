@@ -5,19 +5,19 @@
 
 ### I. Thông tin chung
 
-	Mã số bài tập:				DAMH
+&emsp;&emsp;&emsp;&emsp;Mã số bài tập:				DAMH
 
-	Thời lượng dự kiến:			100 - 120 tiếng
+&emsp;&emsp;&emsp;&emsp;Thời lượng dự kiến:			100 - 120 tiếng
 
-	Deadline nộp bài:
+&emsp;&emsp;&emsp;&emsp;Deadline nộp bài:
 
-	Hình thức:				Nhóm 2 SV
+&emsp;&emsp;&emsp;&emsp;Hình thức:				Nhóm 2 SV
 
-	Hình thức nộp bài:			Nộp qua Moodle môn học
+&emsp;&emsp;&emsp;&emsp;Hình thức nộp bài:			Nộp qua Moodle môn học
 
-	GV phụ trách:				Võ Hoài Việt
+&emsp;&emsp;&emsp;&emsp;GV phụ trách:				Võ Hoài Việt
 
-	Thông tin liên lạc với GV:		vhviet@fit.hcmus.edu.vn
+&emsp;&emsp;&emsp;&emsp;Thông tin liên lạc với GV:		vhviet@fit.hcmus.edu.vn
 
 ### II. Chuẩn đầu ra cần đạt
 
