@@ -190,13 +190,9 @@ Sinh viên tự nghiên cứu.
 ### VI. Các đánh giá
 
 |STT |Tên kết quả                       |Tỉ lệ điểm |Ghi chú                                                                                                           |
-
 |----|----------------------------------|-----------|------------------------------------------------------------------------------------------------------------------|
-
 |1   |Mã nguồn                          |60%        |Cung cấp các thư viện và mã nguồn đầy đủ để biên dịch.                                                            |
-
 |2   |Phong cách lập trình              |20%        |Cấu trúc chương trình rõ ràng, hàm/biến đặt tên dễ hiểu và gợi nhớ và tuân thủ các qui tắc lập trình.             |
-
 |3   |Báo cáo, demo và hướng dẫn sử dụng|20%        |Báo cáo các chức năng của chương trình, hướng dẫn sử dụng cho người dùng, video minh họa từng bước và dữ liệu test|
 
 ### VII. Tài liệu tham khảo
