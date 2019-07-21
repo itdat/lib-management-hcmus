@@ -107,7 +107,7 @@ Thư viện cần quản lí 4 loại thông tin gồm: người dùng, độc g
 
 &emsp;&emsp;&emsp;&emsp;6.6 Thống kê danh sách độc giả bị trễ hạn
 
-<table>
+<table width="100%">
 	<thead>
 		<tr>
 			<th colspan ="2">Bảng phân quyền thực hiện chức năng</th>
